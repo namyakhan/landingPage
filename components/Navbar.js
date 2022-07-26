@@ -25,7 +25,7 @@ const Navbar = () => {
   return (
     <div className="w-screen h-[80px] bg-blue font-barlow text-white ">
       <div className="px-2 flex justify-between items-center w-full h-full">
-        <h1 className=" ml-3 text-xl md:text-3xl cursor-pointer">sunnysid</h1>
+        <h1 className=" ml-3 text-xl md:text-3xl cursor-pointer">sunnyside</h1>
         <div className="flex items-center justify-between space-x-10 ">
           <ul className="hidden md:flex md:items-center space-x-10">
             <NavItem href="/about" text="About" />
